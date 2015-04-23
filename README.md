@@ -3,4 +3,4 @@
 This is social application for 
 [*One Month Rails*](http://onemonthrails.com)
 
-by 
+by Jeremy Wade
